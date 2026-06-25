@@ -78,8 +78,8 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0.55.0/go.mod h1:vB2GH9GAYYJTO3mEn8oYwzEdhlayZIdQz6zdzgUIRvA=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0 h1:0s6TxfCu2KHkkZPnBfsQ2y5qia0jl3MMrmBhu3nCOYk=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0/go.mod h1:Mf6O40IAyB9zR/1J8nGDDPirZQQPbYJni8Yisy7NTMc=
-github.com/IBM/simrun v0.0.0-20260601185023-5ee2aa888e89 h1:C5Lrvinql6wpt9hCOMQtGfKFq9MkY5kohD0oNSWyVnE=
-github.com/IBM/simrun v0.0.0-20260601185023-5ee2aa888e89/go.mod h1:1QHMpjSiOQBrJtKg0jRIAEpH/JppC7c+E3kcLbdKOkw=
+github.com/IBM/simrun v0.2.0 h1:kiNPKtXY+qnVC/GG/ZrwfPOyBhOVANYxo+9gtfAbI8c=
+github.com/IBM/simrun v0.2.0/go.mod h1:1QHMpjSiOQBrJtKg0jRIAEpH/JppC7c+E3kcLbdKOkw=
 github.com/PuerkitoBio/purell v1.1.1 h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tNFfI=
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 h1:d+Bc7a5rLufV/sSk/8dngufqelfh6jnri85riMAaF/M=
@@ -167,8 +167,8 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2 h1:aBangftG7EVZoUb69Os8IaYg++6uMOdKK83QtkkvJik=
 github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2/go.mod h1:qwXFYgsP6T7XnJtbKlf1HP8AjxZZyzxMmc+Lq5GjlU4=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/datadog/stratus-red-team/v2 v2.32.1 h1:T6ak4zJgdAASU7871OwRWDjAQhz4sOZBWB+vGwEb1eY=
-github.com/datadog/stratus-red-team/v2 v2.32.1/go.mod h1:5bxQTH3MwmCOA0A8f89k7HdHx+gEWjuAN8UNyLC4VrA=
+github.com/datadog/stratus-red-team/v2 v2.33.0 h1:dBm0AJlIYOF/aTeA9ndHV6DwjF2IZUu5qwUHl+DpmCk=
+github.com/datadog/stratus-red-team/v2 v2.33.0/go.mod h1:5bxQTH3MwmCOA0A8f89k7HdHx+gEWjuAN8UNyLC4VrA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
