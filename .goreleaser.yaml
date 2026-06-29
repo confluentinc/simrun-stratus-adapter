@@ -1,0 +1,30 @@
+version: 2
+
+project_name: simrun-stratus-pack
+
+builds:
+  - id: simrun-stratus-pack
+    binary: simrun-stratus-pack
+    main: .
+    env:
+      - CGO_ENABLED=0
+    goos: [linux]
+    goarch: [amd64, arm64]
+    ldflags:
+      - -s -w -X main.Version={{ .Version }}
+
+archives:
+  # Must match the resolver: <name>_<version>_<os>_<arch>.tar.gz, lowercase os/arch.
+  - id: simrun-stratus-pack
+    formats: [tar.gz]
+    name_template: "{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}"
+
+checksum:
+  # Resolver fetches this exact filename.
+  name_template: checksums.txt
+
+release:
+  github:
+    # Release is published to the adapter repo; assets are named after the pack.
+    owner: confluentinc
+    name: simrun-stratus-adapter

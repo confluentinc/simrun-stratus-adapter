@@ -78,8 +78,8 @@ github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/cloudmock v0.55.0/go.mod h1:vB2GH9GAYYJTO3mEn8oYwzEdhlayZIdQz6zdzgUIRvA=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0 h1:0s6TxfCu2KHkkZPnBfsQ2y5qia0jl3MMrmBhu3nCOYk=
 github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.55.0/go.mod h1:Mf6O40IAyB9zR/1J8nGDDPirZQQPbYJni8Yisy7NTMc=
-github.com/IBM/simrun v0.2.0 h1:kiNPKtXY+qnVC/GG/ZrwfPOyBhOVANYxo+9gtfAbI8c=
-github.com/IBM/simrun v0.2.0/go.mod h1:1QHMpjSiOQBrJtKg0jRIAEpH/JppC7c+E3kcLbdKOkw=
+github.com/IBM/simrun v0.4.1 h1:PHAaNrOiws0lSV1iE8nhJSiCDxF1SehQUGZawNftnuk=
+github.com/IBM/simrun v0.4.1/go.mod h1:9LBT6w7f1YQYHYVvz4oTvvYwpwc0xD+xtS1Bl61rPuk=
 github.com/PuerkitoBio/purell v1.1.1 h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tNFfI=
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 h1:d+Bc7a5rLufV/sSk/8dngufqelfh6jnri85riMAaF/M=
