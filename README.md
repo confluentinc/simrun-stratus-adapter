@@ -24,12 +24,12 @@ ship.
 ## Install
 
 Install from the SimRun **Packs** page (`/packs`) by pointing it at this repo's
-release, then reference techniques by their Stratus name segment:
+release, then reference simulations as `<scope>.<name>` where `<name>` is the last segment of the Stratus technique ID:
 
 ```yaml
 detonate:
   simrunDetonator:
-    pack: stratus
+    pack: stratus-adapter
     simulation: aws.iam-backdoor-role   # from aws.persistence.iam-backdoor-role
 ```
 
