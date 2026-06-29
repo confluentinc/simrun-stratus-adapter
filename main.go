@@ -12,7 +12,7 @@ import (
 var Version = "dev"
 
 func main() {
-	pack.SetPackInfo("stratus", Version, "3.0.0")
+	pack.SetPackInfo("stratus-adapter", Version, "0.4.0")
 
 	for _, technique := range stratus.GetRegistry().ListAttackTechniques() {
 		pack.Register(adapter.AdaptTechnique(technique))

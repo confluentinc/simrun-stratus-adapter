@@ -3,8 +3,8 @@ module github.com/confluentinc/simrun-stratus-pack
 go 1.25.11
 
 require (
-	github.com/IBM/simrun v0.0.0-20260601185023-5ee2aa888e89
-	github.com/datadog/stratus-red-team/v2 v2.32.1
+	github.com/IBM/simrun v0.4.1
+	github.com/datadog/stratus-red-team/v2 v2.33.0
 	github.com/google/uuid v1.6.0
 )
 
