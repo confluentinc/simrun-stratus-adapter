@@ -1,5 +1,5 @@
 [tools]
-go = "1.25.11"
+go = "1.25.12"
 goreleaser = "2.16.0"
 
 [tasks.build]
