@@ -1,6 +1,6 @@
 name: simrun-stratus-adapter
 lang: go
-lang_version: "1.25.12"
+lang_version: "1.25.13"
 git:
   enable: true
 codeowners:

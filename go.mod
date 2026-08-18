@@ -1,6 +1,6 @@
 module github.com/confluentinc/simrun-stratus-pack
 
-go 1.25.12
+go 1.25.13
 
 require (
 	github.com/IBM/simrun v0.6.1
