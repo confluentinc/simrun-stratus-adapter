@@ -4,7 +4,7 @@ go 1.26.9
 
 require (
 	github.com/IBM/simrun v0.6.3
-	github.com/datadog/stratus-red-team/v2 v2.37.0
+	github.com/datadog/stratus-red-team/v2 v2.37.1
 	github.com/google/uuid v1.6.0
 )
 
@@ -52,6 +52,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.23 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.23 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.24 // indirect
+	github.com/aws/aws-sdk-go-v2/service/bedrock v1.61.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/bedrockruntime v1.50.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.47.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.202.4 // indirect
