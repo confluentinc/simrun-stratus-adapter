@@ -4,7 +4,7 @@ go 1.26.11
 
 require (
 	github.com/IBM/simrun v0.6.3
-	github.com/datadog/stratus-red-team/v2 v2.37.2
+	github.com/datadog/stratus-red-team/v2 v2.38.0
 	github.com/google/uuid v1.6.0
 )
 
@@ -88,7 +88,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v1.3.3 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.1.6 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.7 // indirect
 	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
