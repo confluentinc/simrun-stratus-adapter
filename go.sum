@@ -175,8 +175,8 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2 h1:aBangftG7EVZoUb69Os8IaYg++6uMOdKK83QtkkvJik=
 github.com/cncf/xds/go v0.0.0-20260202195803-dba9d589def2/go.mod h1:qwXFYgsP6T7XnJtbKlf1HP8AjxZZyzxMmc+Lq5GjlU4=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/datadog/stratus-red-team/v2 v2.38.0 h1:t4siV5B63ZCkzUREJYoQf/bt4E/o1S27NRTDGOrylvw=
-github.com/datadog/stratus-red-team/v2 v2.38.0/go.mod h1:iHSfIQ8FxVS1dbQcur0hTiZ3pVcyrZtTjwl7MurMvyE=
+github.com/datadog/stratus-red-team/v2 v2.38.1 h1:q1XAbMAiL42TAbpDptR31EqJGQfM57PFChoAA00v2hU=
+github.com/datadog/stratus-red-team/v2 v2.38.1/go.mod h1:PMJXoQ/f1W8KWsBF+d6UZMj23xDZi4ZRfdZM1bwFgDc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
