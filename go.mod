@@ -4,7 +4,7 @@ go 1.26.11
 
 require (
 	github.com/IBM/simrun v0.6.3
-	github.com/datadog/stratus-red-team/v2 v2.38.0
+	github.com/datadog/stratus-red-team/v2 v2.38.1
 	github.com/google/uuid v1.6.0
 )
 
